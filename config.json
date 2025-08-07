@@ -137,19 +137,19 @@
     "api": "https://caiji.moduapi.cc/api.php/provide/vod",
     "name": "魔都动画"
   },
-  "liangzhizhiyuan": {
+  "liangzi": {
     "api": "https://cj.lziapi.com/api.php/provide/vod",
     "name": "量子资源"
   },
   "aidan": {
     "api": "https://lovedan.net/api.php/provide/vod",
     "name": "艾旦资源"
-   },
-   "aikun": {
+  },
+  "aikun": {
      "api": "https://ikunzyapi.com/api.php/provide/vod/",
      "name": "爱坤资源"
-    },
-  "suoliziyuan": {
+  },
+  "suoli": {
      "api": "https://suoniapi.com/api.php/provide/vod",
      "name": "索利资源"
     }
