@@ -146,12 +146,12 @@
     "name": "艾旦资源"
   },
   "aikun": {
-     "api": "https://ikunzyapi.com/api.php/provide/vod/",
-     "name": "爱坤资源"
+    "api": "https://ikunzyapi.com/api.php/provide/vod/",
+    "name": "爱坤资源"
   },
   "suoli": {
-     "api": "https://suoniapi.com/api.php/provide/vod",
-     "name": "索利资源"
+    "api": "https://suoniapi.com/api.php/provide/vod",
+    "name": "索利资源"
     }
   }
 }
